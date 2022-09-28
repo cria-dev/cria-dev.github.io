@@ -1,0 +1,96 @@
+body {
+  background-color: #202023;
+  color: #EDEDEE;
+  font-family: "system-ui";
+  letter-spacing: 0.2px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 250;
+  width: 750px;
+}
+
+body .navbar {
+  height: 40px;
+  display: inline;
+  margin-bottom: 50px;
+  display: block;
+}
+
+body .navbar h1 {
+  float: left;
+  font-size: 20px;
+  color: #F6E17B;
+  -webkit-text-decoration: underline 3px white;
+          text-decoration: underline 3px white;
+  padding-left: 100px;
+}
+
+body .navbar .menu ul {
+  float: right;
+  padding-right: 100px;
+}
+
+body .navbar .menu ul li {
+  list-style: none;
+  display: inline;
+}
+
+body .navbar .menu ul li button {
+  background-color: #F6E17B;
+  border-radius: 10px;
+  height: 40px;
+  width: 120px;
+}
+
+body .hero .my-profile-image {
+  border-radius: 50%;
+  width: 150px;
+  height: auto;
+  border: 2px solid #EDEDEE;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+body .hero .intro {
+  height: 40px;
+  background-color: #313134;
+  width: 550px;
+  border-radius: 7.5px;
+  margin: 0 auto 50px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  font-size: 14px;
+}
+
+body h2 {
+  padding: 0px 100px 0px 100px;
+  color: #F6E17B;
+  -webkit-text-decoration: underline 3px white;
+          text-decoration: underline 3px white;
+}
+
+body .info {
+  padding: 0px 100px 0px 100px;
+  margin-bottom: 50px;
+  line-height: 24px;
+}
+
+body .skills {
+  padding: 0px 100px 0px 100px;
+  color: #F6E17B;
+  -webkit-text-decoration: underline 3px white;
+          text-decoration: underline 3px white;
+  font-size: 18px;
+}
+
+body ul {
+  padding: 0px 100px 0px 100px;
+  margin-bottom: 50px;
+}
+
+body ul li {
+  margin-left: 50px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
